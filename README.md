@@ -1,6 +1,6 @@
-## SU Jones Lab
+## Research Artifacts of Alex K. Jones' Lab at Syracuse University
 
-Syracuse University EECS
+Syracuse University EECS Jones-Lab
 
 ### Artifacts and Focus
 
